@@ -1,4 +1,4 @@
 # CollectGame
-Small game that collects basic concepts with Unreal Engine
+Small game that collects basic concepts with Unreal Engine 4
 
-[WIP] Project developed using Unreal Engine 4 for deskptop
+Made following steps from course: Unreal Engine, The complete beginner's course @Udemy
